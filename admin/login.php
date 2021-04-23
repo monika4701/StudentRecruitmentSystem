@@ -58,8 +58,8 @@ header("location:index.php?page=home");
     margin: auto;
     font-size: 8rem;
     background: white;
-    padding: .5em 0.7em;
-    border-radius: 50% 50%;
+     padding: .3em 0.5em;/*
+    border-radius: 50% 50%; */
     color: #000000b3;
     z-index: 10;
 }
@@ -87,7 +87,10 @@ div#login-right::before {
   			<div class="card col-md-8">
   				<div class="card-body">
   						<div class="logo">
-			  				<span class="fa fa-hands-helping"></span>
+			  				<!-- <span class="fa fa-hands-helping">
+								  
+							  </span> -->
+							 <img src="https://cdn3.iconfinder.com/data/icons/essential-rounded/64/Rounded-31-512.png" style="width:200px">
 			  			</div>
   					<form id="login-form" >
   						<div class="form-group">
