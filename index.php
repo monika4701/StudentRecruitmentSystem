@@ -99,6 +99,35 @@
     </div>
   </div>
 
+  <br>
+  <br>
+
+<h2 style="text-align: center;">Your profile is your ticket to the good stuff</h2>
+    <div class="conn" style="display: flex;justify-content: center;align-items: center;">
+   
+   <div class="abox" style=" width:300px; height: 300px; margin: 30px;" >
+    <img src="https://www.snagajob.com/v2assets/images/icons/job-rec.svg" style="width: 100px; margin-right: 30px;">
+    <p ><b>Find essential jobs that are in high demand right now</b></p>
+        
+        <p>Employers have essential jobs open and need to fill them fast. These jobs are in high-demand and hiring now.</p>
+   </div>
+   <div class="abox" style=" width:300px; height: 300px;margin: 30px;" >
+    <img src="https://www.snagajob.com/v2assets/images/icons/one-click.svg" style="width: 100px; ">
+    <p ><b>Fill out applications in a sec
+        </b></p>
+        
+        <p>No more completing the same questions over and over again. Apply to the jobs you want with just the press of a button</p>
+   </div>
+   <div class="abox" style=" width:300px; height: 300px; margin: 30px;" >
+    <img src="https://www.snagajob.com/v2assets/images/icons/app-updates.svg" style="width: 100px; ">
+    <p ><b>Know what’s up with your application</b></p>
+        
+        <p>Log in and see where your application is in the process. Has the hiring manager looked at it? Are you on the short list? Keep track with your profile.</p>
+   </div>
+</div>
+<br>
+<br>
+
   <div class="cont" style="width: 70%;height: 400px;margin:30px 10%; position: relative;">
                 <div class="imgbx">
                 <img src="https://www.simplyhired.co.in/static/home/img/jobsearch-tailored.webp" style="width: 400px;float:right;"></div>
@@ -106,6 +135,23 @@
               <p style="position: absolute;bottom: 90px;width: 300px; margin: 6%;">We helps millions of people find great jobs and love what they do every day.
               </p>
               </div>
+
+              <div class="cont" style="width: 100%;height: 400px; position: relative; background:lightgrey;">
+                <div class="imgbx">
+                <img src="https://d1izdra2py5o1o.cloudfront.net/static/home/img/salary-estimator-binoculars.webp" style="width: 400px;margin:8%"></div>
+                <h1 style="position: absolute;top: 20%;right: 30%; font-family: 'Times New Roman', Times, serif;">Salary estimator</h1>
+              <p style="position: absolute;top: 22%;width: 300px;right: 30%; margin-top:4%;">View detailed information for thousands of different careers. Search by job title or location, compare job offers or plot your current salary against local and national averages.
+              </p>
+              </div>
+<br>
+              <div class="cont" style="width: 70%;height: 400px;margin:30px 10%; position: relative;">
+                <div class="imgbx">
+                <img src="https://d1izdra2py5o1o.cloudfront.net/static/home/img/discover-local-jobs.webp" style="width: 400px;float:left; margin-left:20%;"></div>
+                <h1 style="position: absolute;top: 30px;right: 60px; font-family: 'Times New Roman', Times, serif;">Discover local jobs</h1>
+              <p style="position: absolute;top: 50px;width: 300px;right: 20px; margin: 6%;">Learn about and find jobs in your city's most popular industries, top companies and other job types.
+              </p>
+              </div>
+              
 
 <h2 style="text-align: center">Who can use?</h2>
               <div class="stat" style="display: flex;justify-content: center;align-items: center;margin-bottom:20px">
@@ -131,15 +177,21 @@
            </div>
     </div>
 <div id="preloader"></div>
-
-
+<br>
+  <br>
+<div style="max-width:60%;margin:auto;text-align:center;padding:20px;">
+<h4>The choice is yours, we’ve got you covered</h4>
+<p style="font-size:15px ;margin-top:20px;">Whether you need to find top talent, your next great job opportunity or a consulting solution for managing your business and resourcing challenges, we can help.</p>
+  </div>
+  <br>
+  <br>
 <footer >
 <div class="contact-form">
        <div class="first-container">
         <div class="info-container">
           <div> 
             <h3>Address</h3>
-            <p style="color:#00ad5f">GLA UNIVERSITY,MATHURA, India</p>
+            <p style="color:#3d83a3">GLA UNIVERSITY,MATHURA, India</p>
           </div>
           <div> 
             <h3>Contact Number</h3>
