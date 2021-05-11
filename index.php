@@ -4,11 +4,11 @@
     session_start();
     include('admin/db_connect.php');
     ob_start();
-    $query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
-     foreach ($query as $key => $value) {
-      if(!is_numeric($key))
-        $_SESSION['setting_'.$key] = $value;
-    }
+    //$query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
+    //  foreach ($query as $key => $value) {
+    //   if(!is_numeric($key))
+    //     $_SESSION['setting_'.$key] = $value;
+    // }
     ob_end_flush();
     include('header.php');
 
